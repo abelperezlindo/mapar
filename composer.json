@@ -1,0 +1,21 @@
+{
+    "name": "abelperezlindo/mapar",
+    "description": "Generates a map of Argentina with a legend.",
+    "license": "GPL-3.0-or-later",
+    "keywords": ["map", "mapa", "Argentina", "Provincias"],
+    "authors": [
+        {
+        "name": "Abel Perez Lindo",
+        "email": "abelperezlindo@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "AbelPerezLindo\\Mapar\\": "src"
+        }
+    }
+}
