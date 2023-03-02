@@ -22,4 +22,8 @@ Clone este repositorio e instale las dependencias usando Composer, próximamente
 ## Licencia 📄
 Vea la licencia [aquí](https://github.com/abelperezlindo/mapar/blob/main/LICENSE).
 
-## Ejemplos
+## Ejemplos de resultados
+
+![Ejemplo uno](https://github.com/abelperezlindo/mapar/blob/main/mapa_argentina.png)
+![Ejemplo dos](https://github.com/abelperezlindo/mapar/blob/main/mapa_argentina_1.png)
+![Ejemplo tres](https://github.com/abelperezlindo/mapar/blob/main/mapa_argentina_2.png)
